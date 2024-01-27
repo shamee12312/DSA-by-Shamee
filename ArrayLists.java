@@ -7,7 +7,7 @@ class ArrayLists{
         Integer i= Integer.valueOf(4);
         System.out.println(i);
         ArrayList<Interger> l1=new ArrayList<Interger>();
-        l1.add(1);
+        // l1.add(1);
         System.out.println(l1.get(0));
 
 
