@@ -1,5 +1,5 @@
 // Java program for Merge Sort
-import java.io.*;
+// import java.io.*;
 
 class merge_sort1 {
 
