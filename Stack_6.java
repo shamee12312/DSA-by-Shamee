@@ -94,7 +94,13 @@ public class Stack_6 {
         System.out.println(st.capacity());
         System.out.println(st.size());
         st.display();
-        
+        System.out.println(" ");
+        System.out.println("kushagra isrnadfwa");
+        st.push(45);
+        st.push(453);
+        st.push(78);
+        System.out.println(st.isFull());
+        System.out.println(st.isEmpty());
 
 
         

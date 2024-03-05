@@ -118,6 +118,7 @@ public class linked_list2 {
             tail=temp;
         }
         
+        
     }
     public static void main(String[] args) {
         linked_list02 ll=new linked_list02();
