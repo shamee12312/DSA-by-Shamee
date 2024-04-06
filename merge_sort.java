@@ -58,8 +58,8 @@ public class merge_sort {
         int n=arr.length;
         mergesort(arr,0,n-1);
         printarr(arr, n);
-        // space complexity 
-        // time complexity 
+        // space complexity -nlogn
+        // time complexity  -nlogn
     
     }
 }
